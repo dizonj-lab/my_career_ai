@@ -1,6 +1,4 @@
----
-title: My_Career_AI
-app_file: app.py
-sdk: gradio
-sdk_version: 5.49.1
----
+# My Career AI Agent
+
+📖 **Full Documentation:**  
+👉 [View the Project Wiki](https://github.com/dizonj-lab/my_career_ai/wiki)
